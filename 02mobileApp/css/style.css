@@ -110,6 +110,8 @@ nav .nav-items {
   }
 }
 
+/* mobile Optimization */
+
 @media screen and (max-width: 900px) {
   .phone-img {
     display: none;
